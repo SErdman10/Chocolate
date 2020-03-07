@@ -46,6 +46,37 @@ body  {
   padding-top: 20px;
 }
 
+.topleft {
+  position: absolute;
+  top: 1010px;
+  left: 200px;
+  font-size: 18px;
+}
+
+.toplefttext {
+  position: absolute;
+  top: 1629px;
+  left: 200px;
+  font-size: 18px;
+  color: black;
+}
+
+.topright {
+  position: absolute;
+  top: 1010px;
+  right: 200px;
+  font-size: 18px;
+  color: black;
+}
+
+.toprighttext {
+  position: absolute;
+  top: 1603px;
+  right: 300px;
+  font-size: 18px;
+  color: black;
+}
+
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
