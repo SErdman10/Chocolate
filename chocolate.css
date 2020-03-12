@@ -24,10 +24,14 @@ a:active {
 
 body  {
   background-image: url("./images/chocobackground.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   background-size: auto;
   color: white;
   font-family: "Lato", sans-serif;
+}
+
+.opacitybg {
+	opacity: .5;
 }
 
 .newspaper {
