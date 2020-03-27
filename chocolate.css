@@ -104,6 +104,14 @@ h1 {
   font-family: "Vladimir Script";
 }
 
+h2 {
+  text-decoration: underline;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
 .slidetext {
 	color: black;
 	padding: 8px 12px;
